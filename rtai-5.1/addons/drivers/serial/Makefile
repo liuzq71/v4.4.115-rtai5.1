@@ -1,0 +1,1 @@
+../../../addons/drivers/serial/Makefile.kbuild

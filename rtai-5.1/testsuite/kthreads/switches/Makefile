@@ -1,0 +1,1 @@
+../../../testsuite/kthreads/switches/Makefile.kbuild

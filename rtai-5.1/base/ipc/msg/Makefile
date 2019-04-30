@@ -1,0 +1,1 @@
+../../../base/ipc/msg/Makefile.kbuild

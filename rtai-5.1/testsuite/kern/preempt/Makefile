@@ -1,0 +1,1 @@
+../../../testsuite/kern/preempt/Makefile.kbuild

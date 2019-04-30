@@ -1,0 +1,1 @@
+../../../base/ipc/mbx/Makefile.kbuild

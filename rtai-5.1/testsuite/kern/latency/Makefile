@@ -1,0 +1,1 @@
+../../../testsuite/kern/latency/Makefile.kbuild

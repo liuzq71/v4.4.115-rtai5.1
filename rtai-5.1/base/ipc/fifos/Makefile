@@ -1,0 +1,1 @@
+../../../base/ipc/fifos/Makefile.kbuild

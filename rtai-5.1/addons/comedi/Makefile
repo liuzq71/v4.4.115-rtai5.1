@@ -1,0 +1,1 @@
+../../addons/comedi/Makefile.kbuild
