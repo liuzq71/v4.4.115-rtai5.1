@@ -89,7 +89,7 @@ $sudo reboot<br>
 $cd  ../rtai-5.1<br>
 $make menuconfig<br>
 <br>
-General --->
+General ---><br>
   (/opt/rtai-5.1_v4.4.115) Installation directory <br>                                        
   (/usr/src/linux-headers-4.4.115-rtai-5.1+) Linux source tree <br>
 <br>
